@@ -60,12 +60,9 @@ Slides showing the workflow of the project.
   ### AzureML
   We use the AzureML Studio's Designer to design our data processing pipeline.
   
-  
-    python app.py
-   Copy the link you get into the emulator, adding 
-    
-    /api/messages 
-   at the end of the URL and open the bot. 
+  ## Run flask app
+    python myapp_LSTM.py
+   
       
  ## Author
  
